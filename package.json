@@ -20,6 +20,7 @@
   "homepage": "https://github.com/FbW-22-E04/node-weathercli-harshita1225#readme",
   "dependencies": {
     "axios": "^1.2.0",
+    "colors": "^1.4.0",
     "dotenv": "^16.0.3"
   }
 }
